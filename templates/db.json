@@ -1,0 +1,32 @@
+{
+  "users":[
+    {
+      "id": 0,
+      "username": "wsed",
+      "password": "pswd123",
+      "access_level": "sales",
+      "position": "retail",
+    },
+    {
+    "id": 1,
+    "username": "ish",
+    "password": "hmong331",
+    "access_level": "administrative",
+    "position": "corporate",
+  },
+  {
+  "id": 2,
+  "username": "woahdude",
+  "password": "agfarnog@1337",
+  "access_level": "admin",
+  "position": "corporate",
+  },
+  {
+  "id": 3,
+  "username": "yuch",
+  "password": "Archmage710",
+  "access_level": "banking",
+  "position": "finances",
+  },
+  ]
+}
